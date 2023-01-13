@@ -1,4 +1,4 @@
-# ICC_project
+# C++ Project
 C++ project
 
 In folder -> 'make' command
